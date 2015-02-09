@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpanderView</string>
+    <string name="show_content">- Show Content -</string>
+    <string name="hide_content">- Hide Content -</string>
+</resources>
